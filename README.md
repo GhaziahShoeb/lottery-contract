@@ -1,7 +1,7 @@
 # lottery-contract
 # 🎰 Lottery Smart Contract
 
-This is a simple Ethereum-based lottery smart contract written in Solidity. It was created as my first blockchain project after completing a foundational blockchain course.
+This is a simple Ethereum-based lottery smart contract written in Solidity. It was created as my first blockchain project .
 
 ## 📜 Overview
 
